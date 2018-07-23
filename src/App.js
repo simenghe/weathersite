@@ -4,6 +4,7 @@ import './App.css';
 
 class App extends Component {
   render() {
+      const stringer="askdojalskdjklsajdlkasdkjlasdklasdkljlkj"
     return (
       <div className="App">
         <header className="App-header">
@@ -14,7 +15,7 @@ class App extends Component {
           <code>What is good homies</code>
         </p>
           <header className="Big-chad">
-              <h1 className="bigger cane"> <code>Whats up</code></h1>
+              <h1 className="bigger cane"><code>Whats up</code></h1>
           </header>
       </div>
     );
